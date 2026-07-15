@@ -242,11 +242,3 @@ Run the quality check:
 ```bash
 python3 scripts/quality_check.py SKILL.md
 ```
-
----
-
-## Credits
-
-本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成，创建者为 [花叔](https://x.com/AlchainHust)。
-
-This Skill was generated with [Nuwa Skill](https://github.com/alchaincyf/nuwa-skill) and created by [花叔](https://x.com/AlchainHust).
